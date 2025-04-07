@@ -1,6 +1,6 @@
 # Glob_tr - CLI Translation Tool
 
-Glob_tr is a simple command-line tool for translating text from one language to another using translate.
+Glob_tr is a simple command-line tool for translating text from one language to another using translate
 
 "af", "sq", "am", "ar", "hy", "az", "eu", "be", "bn", "bs", "bg", "ca", "ceb", "zh-CN", "zh-TW",
 
@@ -14,23 +14,23 @@ Glob_tr is a simple command-line tool for translating text from one language to 
 
 "sr", "st", "sn", "sd", "si", "sk", "sl", "so", "es", "su", "sw", "sv", "tl", "tg", "ta", "tt",
 
-"te", "th", "tr", "tk", "uk", "ur", "ug", "uz", "vi", "cy", "xh", "yi", "yo", "zu",
+"te", "th", "tr", "tk", "uk", "ur", "ug", "uz", "vi", "cy", "xh", "yi", "yo", "zu"
 
 ## Installation
 
 ### 1. Download the binary
 
-You can download the latest release of the `glob_tr` binary from the [Releases] section of this GitHub repository.
+You can download the latest release of the `glob_tr` binary from the [Releases] section of this GitHub repository
 
-Choose the appropriate binary for your system and download it. For example, for Linux, you can download the `glob_tr` binary directly.
+Choose the appropriate binary for your system and download it. For example, for Linux, you can download the `glob_tr` binary directly
 
 ### 2. Install the binary globally
 
-Once the binary file is downloaded, follow the steps below to make it globally accessible on your system.
+Once the binary file is downloaded, follow the steps below to make it globally accessible on your system
 
 #### For Linux:
 
-1. Open a terminal.
+1. Open a terminal
 2. Copy the binary to a system-wide executable directory, for example `/usr/local/bin`:
 
    ```bash
