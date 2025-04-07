@@ -1,6 +1,6 @@
 # Glob_tr - CLI Translation Tool
 
-Glob_tr is a simple command-line tool for translating text from one language to another using Google Translate.
+Glob_tr is a simple command-line tool for translating text from one language to another using translate.
 
 ## Installation
 
