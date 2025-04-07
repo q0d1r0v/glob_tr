@@ -28,7 +28,7 @@ Choose the appropriate binary for your system and download it. For example, for 
 
 Once the binary file is downloaded, follow the steps below to make it globally accessible on your system.
 
-#### For Linux/macOS:
+#### For Linux:
 
 1. Open a terminal.
 2. Copy the binary to a system-wide executable directory, for example `/usr/local/bin`:
