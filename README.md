@@ -17,7 +17,7 @@ Once the binary file is downloaded, follow the steps below to make it globally a
 #### For Linux/macOS:
 
 1. Open a terminal.
-2. Move the binary to a system-wide executable directory, for example `/usr/local/bin`:
+2. Copy the binary to a system-wide executable directory, for example `/usr/local/bin`:
 
    ```bash
    sudo cp glob_tr /usr/local/bin/
