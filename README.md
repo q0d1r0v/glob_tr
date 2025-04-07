@@ -37,5 +37,5 @@ Once the binary file is downloaded, follow the steps below to make it globally a
    sudo cp glob_tr /usr/local/bin/
    sudo chmod +x /usr/local/bin/glob_tr
 
-   glob_tr translate --from="eng" --to="uz" --text="Say HI from BEKO!"
+   glob_tr translate --from="eng" --to="uz" --text="Say HI!"
    ```
